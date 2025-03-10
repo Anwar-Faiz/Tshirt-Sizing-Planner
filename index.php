@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tshirt Sizing Planner</title>
+    <title>T-shirt Sizing Planner</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -97,7 +97,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>Tshirt Sizing Planner</h2>
+        <h2>T-shirt Sizing Planner</h2>
         <div class="button-container">
             <button class="xs" onclick="addTask('XS')">Add XS</button>
             <button class="s" onclick="addTask('S')">Add S</button>
